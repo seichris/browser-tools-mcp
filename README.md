@@ -221,3 +221,9 @@ Once installed and configured, the system allows any compatible MCP client to:
 - Works with any MCP-compatible client
 - Primarily designed for Cursor IDE integration
 - Supports other AI editors and MCP clients
+
+---
+
+local cursor cmd
+
+`node ~/.../browser-tools-mcp/browser-tools-mcp/dist/mcp-server.js`
